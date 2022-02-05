@@ -9,4 +9,6 @@ Abdoulaye is passionate about a fairer AI and its potential for social good.
 
 #WHAT I'M UP TO
 
-![Program logo](/adiack.github.io/Google-AI-Residency-Program.jpeg)
+I manage a research residency program that helps lunch the career of young African researchers from our Google AI site in Accra, Ghana. 
+
+![Program logo](/Google-AI-Residency-Program.jpeg)
