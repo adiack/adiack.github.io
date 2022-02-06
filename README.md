@@ -13,7 +13,7 @@ Abdoulaye is passionate about a fairer AI and its potential for social good.
 
  - AI/ML  in resource- and data-constrained environment ( Computer vision & NLP & TinyML) 🤖
  - Research + innovation + startups in Africa
- - Startups
+ - Art & ML
  - Potential of AI/ML for social good, in particular scaling public health and education AI solutions for the Global South
  - AI policy and ecosystem in Africa 
 
@@ -28,3 +28,19 @@ Abdoulaye works on various programs and initiatives to support research, faculty
 |<br><a href="https://arxiv.org/pdf/2107.12283.pdf"><img src="/mmeka_paper_shot.jpg" width="130" height="102"/></a>|Mapping Africa with AI <br><br>Using cutting edge applied AI with a research team of Software engineer and scientists we work improve maps in Africa and [open source the footprint](https://sites.research.google/open-buildings/) |
 |Google Brain | As part of the [Google Brain team](https://research.google/teams/brain/) I worked with Research Software Engineers and Research Scientists on cutting edge applied and fundamental AI/ML with social good potential for Africa and the Global South. |
 |Google Research Outreach| Collaborations with Research labs, Startups and Universities in Africa through various Google and partners programs. 
+
+
+# News & Publications
+
+
+
+|  |  | |
+|--|--|--|
+| Blog | [Using AI to map Africa’s buildings](https://blog.google/around-the-globe/google-africa/using-ai-to-map-africas-buildings/) |<img src="/## **Open-Buildings_V2b_2096x11.max-1000x1000.jpg" width="100" height="56"/>
+| CNN Interview |  [How Ghana's rising tech scene is getting even bigger](https://edition.cnn.com/videos/business/2021/10/15/marketplace-africa-ghana-tech-google-uber-meqasa-spc.cnn)  | <img src="/Abdou_cnn.jpg" width="357" height="212"/>
+| BBC Interview |  [Google releases buildings and structure datasets for Africa promises progress in mapping, planning and addresses.](https://www.bbc.co.uk/programmes/p09qnk4d)  | <img src="/abdou_bbc.jpg" width="358" height="224"/>
+| Panel Host - AMLD Africa |[NLP and the African context featuring Instadeep and Rural Sense -AI & NLP](https://www.youtube.com/watch?v=MXCbp5t_q_Q&list=PLyyHDYyFFpkBSUmX-iv7JLgeNJHvRIt4M&index=17)  | <img src="/abdou_amld.jpg" width="358" height="224"/>|
+
+
+
+
