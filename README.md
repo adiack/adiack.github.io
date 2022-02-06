@@ -10,20 +10,23 @@ Most of Abdoulaye's career has revolved around delivering cutting edge IT soluti
 Abdoulaye is passionate about a fairer AI and its potential for social good.
 
 
+# Interests
+
+ - AI/ML  in resource- and data-constrained environment ( Computer vision & NLP & TinyML) 🤖
+ - Research + innovation + startups in Africa
+ - Startups
+ - Potential of AI/ML for social good, in particular scaling public health and education AI solutions for the Global South
+ - AI policy and ecosystem in Africa 
+
 # Projects
 
-Most recently Abdoulaye ran an AI Residency program which trains African talent for research from Accra, Ghana. 
+
 
 Abdoulaye works on various programs and initiatives to support research, faculty and students in Africa.
 
-| Google AI Residency |A research residency program that helps launch the career of young African researchers at our [Google AI site in Accra, Ghana ](https://research.google/locations/accra/) |
+|  |  |
 |--|--|
-| Mapping Africa with AI |Working with a team of Software engineer and researchers improve maps in Africa and [outsource the data](https://sites.research.google/open-buildings/)<br><img src="/mmeka_paper_shot.jpg" width="130" height="102" /> |
+| Google AI Residency in Accra, Ghana |Running a research residency program that helps launch the career of young African researchers at our [Google AI site in Accra, Ghana ](https://research.google/locations/accra/) |
+|<br><img src="/mmeka_paper_shot.jpg" width="130" height="102" />  |Mapping Africa with AI <br><br>Using cutting edge applied AI with a research team of Software engineer and scientists we work improve maps in Africa and [open source the footprint](https://sites.research.google/open-buildings/) |
 |Google Brain | As part of the [Google Brain team](https://research.google/teams/brain/) I worked with Research Software Engineers and Research Scientists on cutting edge applied and fundamental AI/ML with social good potential for Africa and the Global South. |
-|Google AI| As a Program Manager I work on Research Ops and connecting with 
-
-|  |  |
-|--|--|
-|  |  |
-
-I like to work on AI/ML 🤖 research projects that supports the AI Ecosystem in Africa through various initiatives
+|Google Research Outreach| Collaborations with Research labs, Startups and Universities in Africa through various Google and partners programs. 
