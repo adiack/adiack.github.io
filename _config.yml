@@ -3,3 +3,9 @@ title: Abdoulaye Diack
 description: Research Program Manager at Google AI
 logo: https://drive.google.com/uc?id=1nsvz9OT6m6k2ef3pX5RBBNiA8B1HYY5T
 show_downloads: false
+# Analytics
+analytics:
+  provider               : "google-gtag"
+  google:
+    measurement_id          : "G-6629WV7R7N"
+    anonymize_ip         : # true, false (default)
