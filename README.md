@@ -1,6 +1,6 @@
 # ABOUT ME
 
-Abdoulaye Diack is a father of two and a Program Manager at [Google AI](https://ai.google/) .  
+Abdoulaye Diack is a husband, father of two and a Program Manager at [Google AI](https://ai.google/) .  
 
 In prior to joining Google Research Abdoulaye spent 15 years engineering and management roles working with various teams across all continents (Tanzania, Senegal, Canada, US, France, Germany, UK, Indonesia, etc.). 
 
@@ -18,7 +18,7 @@ Abdoulaye holds a degree of Software Engineering from Concordia University, Mont
 # Projects
 
 
-Abdoulaye works on various programs and initiatives to support research, faculty and students in Africa.
+Abdoulaye works on various programs and initiatives to strengthen research and the AI/ML ecosystem in Africa.
 
 |  |  |
 |--|--|
