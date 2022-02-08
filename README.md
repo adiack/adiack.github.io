@@ -1,16 +1,15 @@
 # ABOUT ME
 
-Abdoulaye Diack is a husband, father of two and a Program Manager at [Google AI](https://ai.google/) .  
+Abdoulaye Diack is a husband, father of two and a Program Manager at [Google AI](https://ai.google/) 🤖.  
 
 In prior to joining Google Research Abdoulaye spent 15 years engineering and management roles working with various teams across all continents (Tanzania, Senegal, Canada, US, France, Germany, UK, Indonesia, etc.). 
 
-Abdoulaye holds a degree of Software Engineering from Concordia University, Montréal, Canada. He is from Senegal :senegal: and has made Ghana :ghana: his home for the past few years. 
+Abdoulaye holds a Bsc degree of Software Engineering from Concordia University, Montréal, Canada. He is from Senegal :senegal: and has made Ghana :ghana: his home for the past few years. 
 
 # Interests
 
- 
  - Research + innovation + startups in Africa
- - AI/ML  in resource- and data-constrained environment ( Computer vision & NLP & TinyML) 🤖
+ - AI/ML in resource and data constrained environment (Computer vision & NLP & TinyML) 
  - Art & AI
  - Potential of AI/ML for social good, in particular scaling public health and education AI solutions for the Global South
  - AI policy and ecosystem in Africa 
@@ -24,8 +23,8 @@ Abdoulaye works on various programs and initiatives to strengthen research and t
 |--|--|
 |Google AI Residency in Accra, Ghana| Running a research residency program that helps launch the career of young African researchers at our [Google AI site in Accra, Ghana ](https://research.google/locations/accra/)|
 |<br><a href="https://arxiv.org/pdf/2107.12283.pdf"><img src="/mmeka_paper_shot.jpg" width="130" height="102"/></a>|Mapping Africa with AI <br><br>Using cutting edge applied AI with a research team of Software engineer and scientists we work improve maps in Africa and [open source the footprint](https://sites.research.google/open-buildings/) |
-|[Google Brain team](https://research.google/teams/brain/) | I work with Research Software Engineers and Research Scientists on cutting edge applied and fundamental AI/ML with social good potential for Africa and the Global South. |
-|Google Research Outreach| Collaborations with Research labs, Startups and Universities in Africa through various Google and partners programs.|
+|[Google Brain team](https://research.google/teams/brain/) | Works with Research Software Engineers and Research Scientists on cutting edge applied AI/ML research |
+|Google Research Outreach| Strenghthening research @ labs, Startups and Universities in Africa through various Google and partners programs.|
 
 # News & Publications
 
