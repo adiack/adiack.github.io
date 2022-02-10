@@ -1,7 +1,7 @@
 
 Abdoulaye Diack is a husband, father of two and a Program Manager at [Google AI](https://ai.google/) 🤖.  
 
-In prior to joining Google Research Abdoulaye spent 15 years engineering and management roles working with various teams across all continents (Tanzania, Senegal, Canada, US, France, Germany, UK, Indonesia, etc.). 
+In prior to joining Google Research Abdoulaye spent 15 years in engineering and management roles working with various teams across all continents (Tanzania, Senegal, Canada, US, France, Germany, UK, Indonesia, etc.). 
 
 Abdoulaye holds a BSc degree of Software Engineering from Concordia University, Montréal, Canada. He is from Senegal 🇸🇳 and has made Ghana 🇬🇭 his home for the past few years. 
 
