@@ -5,6 +5,8 @@ In prior to joining Google Research Abdoulaye spent 15 years in engineering and 
 
 Abdoulaye holds a BSc degree of Software Engineering from Concordia University, Montréal, Canada. He is from Senegal 🇸🇳 and has made Ghana 🇬🇭 his home for the past few years. 
 
+Abdoulaye advises startups and is an early investor in Bitcoin technologies companies. 
+
 # Interests
 
  - Research + innovation + startups in Africa
