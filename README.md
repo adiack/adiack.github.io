@@ -1,17 +1,19 @@
-
 Abdoulaye Diack is a husband, father of two and a Program Manager at [Google AI](https://ai.google/) 🤖.  
 
-In prior to joining Google Research Abdoulaye spent 15 years in engineering and management roles working with various teams across all continents (Tanzania, Senegal, Canada, US, France, Germany, UK, Indonesia, etc.). 
+Prior to joining Google Research Abdoulaye spent 15 years in engineering and management roles working with various teams across all continents (Tanzania, Senegal, Canada, US, France, Germany, UK, Indonesia, etc.) working for [Ericsson](https//:ericsson.com) on mobile payment systems and data warehouses for Telcos. 
 
 Abdoulaye holds a BSc degree of Software Engineering from Concordia University, Montréal, Canada. He is from Senegal 🇸🇳 and has made Ghana 🇬🇭 his home for the past few years. 
+
+Abdoulaye advises startups on the topics of Fintech and AI. 
+
+Abdoulaye is an early adopter of the [Lighting Network](https://lightning.network/) and an angel investor into several [Bitcoin](https://Bitcoin.org) technologies companies. 
 
 # Interests
 
  - Research + innovation + startups in Africa
  - AI/ML in resource and data constrained environment (Computer vision & NLP & TinyML) 
- - Art & AI
  - Potential of AI/ML for social good, in particular scaling public health and education AI solutions for the Global South
- - AI policy and ecosystem in Africa 
+ - AI policy for the Global South
 
 # Projects
 
