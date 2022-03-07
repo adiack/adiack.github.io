@@ -5,18 +5,18 @@ Prior to joining Google Research Abdoulaye spent 15 years in engineering and man
 Abdoulaye holds a BSc degree of Software Engineering from Concordia University, Montréal, Canada. He is from Senegal 🇸🇳 and has made Ghana 🇬🇭 his home for the past few years. 
  
 
-Abdoulaye is an early adopter of the [Lighting Network](https://lightning.network/) and an angel investor in [Bitcoin](https://Bitcoin.org) technology companies. He also sometimes advises startups on various topics.
+Abdoulaye is an early adopter of the [Lighting Network](https://lightning.network/) and an angel investor in [Bitcoin](https://Bitcoin.org) technology companies. 
+
+He advises startups, VCs and NGOs on various topics.
 
 # Interests
 
  - Research + innovation + startups in Africa
  - AI/ML in resource and data constrained environment (Computer vision & NLP & TinyML) 
  - Potential of AI/ML for social good, in particular scaling public health and education AI solutions for the Global South
- - AI policy for the Global South
  - Technology for SDG
 
 # Projects
-
 
 Abdoulaye works on various programs and initiatives to strengthen research and the AI/ML ecosystem in Africa.
 
@@ -36,7 +36,12 @@ CNN Interview |  [How Ghana's rising tech scene is getting even bigger](https://
 BBC Interview |  [Google releases buildings and structure datasets for Africa promises progress in mapping, planning and addresses.](https://www.bbc.co.uk/programmes/p09qnk4d)  | <img src="/abdou_bbc.jpg" />|
 Panel Host - AMLD Africa |[NLP and the African context featuring Instadeep and Rural Sense -AI & NLP](https://www.youtube.com/watch?v=MXCbp5t_q_Q&list=PLyyHDYyFFpkBSUmX-iv7JLgeNJHvRIt4M&index=17)  | <img src="/abdou_amld.jpg" />|
 
+# Resources 
 
+|  |  |
+|--|--|
+|Education| - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) <br> -[Kaggle Courses](https://www.kaggle.com/learn)|
+|Community | -[Data Science Africa](http://www.datascienceafrica.org/) <br> -[Machine Learning and Data Science Africa](https://groups.google.com/g/mlds-africa?pli=1)|
 
 
 
