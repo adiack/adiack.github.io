@@ -7,7 +7,7 @@ Abdoulaye holds a BSc degree of Software Engineering from Concordia University, 
 
 Abdoulaye is an early adopter of the [Lighting Network](https://lightning.network/) and an angel investor in [Bitcoin](https://Bitcoin.org) technology companies. 
 
-He advises startups, VCs and NGOs on various topics.
+He has advised startups, VCs and NGOs on various topics.
 
 # Interests
 
