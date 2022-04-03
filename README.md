@@ -40,4 +40,4 @@ Panel Host - AMLD Africa |[NLP and the African context featuring Instadeep and R
 |  |  |
 |--|--|
 |Education| - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) <br> -[Kaggle Courses](https://www.kaggle.com/learn)|
-|Community | -[Data Science Africa](http://www.datascienceafrica.org/) <br> -[Machine Learning and Data Science Africa](https://groups.google.com/g/mlds-africa?pli=1) <br> -[Black In AI](https://blackinai.github.io/#/)<br> -[Indaba Deep Learning](https://deeplearningindaba.com/) <br> [Google for Startups](https://startup.google.com/accelerator/africa/)|
+|Community | -[Data Science Africa](http://www.datascienceafrica.org/) <br> -[Machine Learning and Data Science Africa](https://groups.google.com/g/mlds-africa?pli=1) <br> -[Black In AI](https://blackinai.github.io/#/)<br> -[Indaba Deep Learning](https://deeplearningindaba.com/) <br> -[Google for Startups](https://startup.google.com/accelerator/africa/)|
