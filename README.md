@@ -15,7 +15,15 @@ He has advised startups, VCs and NGOs on various topics.
  - Potential of AI/ML for social good, in particular scaling public health and education
  - Digital transformation & policy
 
-# Projects
+# Resources 
+
+|  |  |
+|--|--|
+|Resources for Researchers| - [Google Programs for African researchers and academics](https://www.linkedin.com/pulse/google-resources-african-researchers-academics-abdoulaye-diack/?trackingId=BOUX2FrCSLKViH%2F2Gs%2FrmA%3D%3D)
+|Education| - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) <br> -[Kaggle Courses](https://www.kaggle.com/learn)|
+|Community | -[Data Science Africa](http://www.datascienceafrica.org/) <br> -[Machine Learning and Data Science Africa](https://groups.google.com/g/mlds-africa?pli=1) <br> -[Black In AI](https://blackinai.github.io/#/)<br> -[Indaba Deep Learning](https://deeplearningindaba.com/) <br> -[Google for Startups](https://startup.google.com/accelerator/africa/)|
+
+# Work
 
 Abdoulaye works on programs and initiatives to strengthen research and the AI/ML ecosystem in Africa.
 
@@ -35,9 +43,11 @@ CNN Interview |  [How Ghana's rising tech scene is getting even bigger](https://
 BBC Interview |  [Google releases buildings and structure datasets for Africa promises progress in mapping, planning and addresses.](https://www.bbc.co.uk/programmes/p09qnk4d)  | <img src="/abdou_bbc.jpg" />|
 Panel Host - AMLD Africa |[NLP and the African context featuring Instadeep and Rural Sense -AI & NLP](https://www.youtube.com/watch?v=MXCbp5t_q_Q&list=PLyyHDYyFFpkBSUmX-iv7JLgeNJHvRIt4M&index=17)  | <img src="/abdou_amld.jpg" />|
 
-# Resources 
+<!---
+# Projects I dig
 
-|  |  |
-|--|--|
-|Education| - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) <br> -[Kaggle Courses](https://www.kaggle.com/learn)|
-|Community | -[Data Science Africa](http://www.datascienceafrica.org/) <br> -[Machine Learning and Data Science Africa](https://groups.google.com/g/mlds-africa?pli=1) <br> -[Black In AI](https://blackinai.github.io/#/)<br> [Indaba Deep Learning](https://deeplearningindaba.com/)|
+|  |  | |
+|--|--|--|
+|Magenta | [Make Music and Art using Machine Learning](https://magenta.tensorflow.org/) |<img src="/magenta-logo-bottom-text.png"/>|
+--->
+
