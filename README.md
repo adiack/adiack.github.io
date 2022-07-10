@@ -13,7 +13,7 @@ He has advised startups, VCs and NGOs on various topics.
  - Research + innovation + startups in Africa
  - AI/ML in resource and data constrained environment (Computer vision & NLP & TinyML) 
  - Potential of AI/ML for social good, in particular scaling public health and education
- - Digital transformation & policy
+ - Digital transformation & AI policy
 
 # Resources 
 
@@ -42,12 +42,16 @@ Abdoulaye works on programs and initiatives to strengthen research and the AI/ML
 CNN Interview |  [How Ghana's rising tech scene is getting even bigger](https://edition.cnn.com/videos/business/2021/10/15/marketplace-africa-ghana-tech-google-uber-meqasa-spc.cnn)  | <img src="/Abdou_cnn.jpg" />|
 BBC Interview |  [Google releases buildings and structure datasets for Africa promises progress in mapping, planning and addresses.](https://www.bbc.co.uk/programmes/p09qnk4d)  | <img src="/abdou_bbc.jpg" />|
 Panel Host - AMLD Africa |[NLP and the African context featuring Instadeep and Rural Sense -AI & NLP](https://www.youtube.com/watch?v=MXCbp5t_q_Q&list=PLyyHDYyFFpkBSUmX-iv7JLgeNJHvRIt4M&index=17)  | <img src="/abdou_amld.jpg" />|
+Panel Host - Namibia 4IR Conference |[A Panel on 4IR technologies and research](https://4irnamibia.com/4ir-conference/)  | <img src="/4ir_photo.png" />|
 
 <!---
 # Projects I dig
 
 |  |  | |
 |--|--|--|
-|Magenta | [Make Music and Art using Machine Learning](https://magenta.tensorflow.org/) |<img src="/magenta-logo-bottom-text.png"/>|
+|Magenta | [Make Music and Art using Machine Learning](https://magenta.tensorflow.org/) |
+|Disco Diffusion | [Notebooks, models and techniques for the generation of AI Art and Animations.](https://github.com/alembics/disco-diffusion) |
+|BLOOM: BigScience 176B Model | [BLOOM (BigScience Language Open-science Open-access Multilingual)](https://bigscience.notion.site/BLOOM-BigScience-176B-Model-ad073ca07cdf479398d5f95d88e218c4) |
+|Alphafold | [AlphaFold is an AI system developed by DeepMind that predicts a protein's 3D structure from its amino acid sequence.](https://bigscience.notion.site/BLOOM-BigScience-176B-Model-ad073ca07cdf479398d5f95d88e218c4) |
 --->
 
