@@ -44,7 +44,7 @@ BBC Interview |  [Google releases buildings and structure datasets for Africa pr
 Panel Host - AMLD Africa |[NLP and the African context featuring Instadeep and Rural Sense -AI & NLP](https://www.youtube.com/watch?v=MXCbp5t_q_Q&list=PLyyHDYyFFpkBSUmX-iv7JLgeNJHvRIt4M&index=17)  | <img src="/abdou_amld.jpg" />|
 Panel Host - Namibia 4IR Conference |[A Panel on 4IR technologies and research](https://4irnamibia.com/4ir-conference/)  | <img src="/4ir_photo.png" />|
 
-<!---
+
 # Projects I dig
 
 |  |  | |
@@ -53,5 +53,5 @@ Panel Host - Namibia 4IR Conference |[A Panel on 4IR technologies and research](
 |Disco Diffusion | [Notebooks, models and techniques for the generation of AI Art and Animations.](https://github.com/alembics/disco-diffusion) |
 |BLOOM: BigScience 176B Model | [BLOOM (BigScience Language Open-science Open-access Multilingual)](https://bigscience.notion.site/BLOOM-BigScience-176B-Model-ad073ca07cdf479398d5f95d88e218c4) |
 |Alphafold | [AlphaFold is an AI system developed by DeepMind that predicts a protein's 3D structure from its amino acid sequence.](https://bigscience.notion.site/BLOOM-BigScience-176B-Model-ad073ca07cdf479398d5f95d88e218c4) |
---->
+
 
