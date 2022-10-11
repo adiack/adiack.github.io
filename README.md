@@ -6,13 +6,11 @@ Abdoulaye holds a BSc degree of Software Engineering from Concordia University, 
  
 Abdoulaye is an early adopter of the [Lighting Network](https://lightning.network/) and an angel investor in [Bitcoin](https://Bitcoin.org) technology companies. 
 
-He has advised startups, VCs and NGOs on various topics.
-
 # Interests
 
  - Research + innovation + startups in Africa
  - AI/ML in resource and data constrained environment (Computer vision & NLP & TinyML) 
- - Potential of AI/ML for social good, in particular scaling public health and education
+ - AI for social good
  - Digital transformation & AI policy
 
 # Resources 
@@ -53,5 +51,6 @@ Panel Host - Namibia 4IR Conference |[A Panel on 4IR technologies and research](
 |Disco Diffusion | [Notebooks, models and techniques for the generation of AI Art and Animations.](https://github.com/alembics/disco-diffusion) |
 |BLOOM: BigScience 176B Model | [BLOOM (BigScience Language Open-science Open-access Multilingual)](https://bigscience.notion.site/BLOOM-BigScience-176B-Model-ad073ca07cdf479398d5f95d88e218c4) |
 |Alphafold | [AlphaFold is an AI system developed by DeepMind that predicts a protein's 3D structure from its amino acid sequence.](https://bigscience.notion.site/BLOOM-BigScience-176B-Model-ad073ca07cdf479398d5f95d88e218c4) |
+
 
 
