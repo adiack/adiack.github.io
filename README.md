@@ -3,8 +3,6 @@ Abdoulaye Diack is a husband, father of two and a Program Manager at [Google AI]
 Prior to joining Google Research Abdoulaye spent 15 years in engineering and management roles working with various teams across all continents (Tanzania, Senegal, Canada, US, France, Germany, UK, Indonesia, etc.) working for [Ericsson](https//:ericsson.com) on mobile financial services and payments. Abdoulaye also spent several years designing and deploying data warehouses systems for Telcos. 
 
 Abdoulaye holds a BSc degree of Software Engineering from Concordia University, Montréal, Canada. He is from Senegal 🇸🇳 and has made Ghana 🇬🇭 his home for the past few years. 
- 
-Abdoulaye is an early adopter of the [Lighting Network](https://lightning.network/) and an angel investor in [Bitcoin](https://Bitcoin.org) technology companies. 
 
 # Interests
 
@@ -42,17 +40,4 @@ Panel Host - Namibia 4IR Conference |[A Panel on 4IR technologies and research](
 CNN Interview |  [How Ghana's rising tech scene is getting even bigger](https://edition.cnn.com/videos/business/2021/10/15/marketplace-africa-ghana-tech-google-uber-meqasa-spc.cnn)  | <img src="/Abdou_cnn.jpg" />|
 BBC Interview |  [Google releases buildings and structure datasets for Africa promises progress in mapping, planning and addresses.](https://www.bbc.co.uk/programmes/p09qnk4d)  | <img src="/abdou_bbc.jpg" />|
 Panel Host - AMLD Africa |[NLP and the African context featuring Instadeep and Rural Sense -AI & NLP](https://www.youtube.com/watch?v=MXCbp5t_q_Q&list=PLyyHDYyFFpkBSUmX-iv7JLgeNJHvRIt4M&index=17)  | <img src="/abdou_amld.jpg" />|
-
-
-|  |  | |
-|--|--|--|
-|Blog | [Using AI to map Africa’s buildings](https://blog.google/around-the-globe/google-africa/using-ai-to-map-africas-buildings/) |<img src="/Open-Buildings_V2b_2096x11.max-1000x1000.jpg"/>|
-CNN Interview |  [How Ghana's rising tech scene is getting even bigger](https://edition.cnn.com/videos/business/2021/10/15/marketplace-africa-ghana-tech-google-uber-meqasa-spc.cnn)  | <img src="/Abdou_cnn.jpg" />|
-BBC Interview |  [Google releases buildings and structure datasets for Africa promises progress in mapping, planning and addresses.](https://www.bbc.co.uk/programmes/p09qnk4d)  | <img src="/abdou_bbc.jpg" />|
-Panel Host - AMLD Africa |[NLP and the African context featuring Instadeep and Rural Sense -AI & NLP](https://www.youtube.com/watch?v=MXCbp5t_q_Q&list=PLyyHDYyFFpkBSUmX-iv7JLgeNJHvRIt4M&index=17)  | <img src="/abdou_amld.jpg" />|
-Panel Host - Namibia 4IR Conference |[A Panel on 4IR technologies and research](https://4irnamibia.com/4ir-conference/)  | <img src="/4ir_photo.png" />|
-|Blog | [How mapping the world’s buildings makes a difference]([https://blog.google/around-the-globe/google-africa/using-ai-to-map-africas-buildings/](https://blog.google/around-the-globe/google-africa/how-mapping-the-worlds-buildings-makes-a-difference/) |<img src="/africa-ssea-building-density.png"/>|
-
-
-
 
