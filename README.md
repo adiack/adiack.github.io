@@ -1,4 +1,4 @@
-HOME | [BLOG](./blog/html)
+HOME | [BLOG](./blog.html)
 
 Abdoulaye Diack is a husband, father of two and a Program Manager at [Google AI](https://research.google/) 🤖.  
 
