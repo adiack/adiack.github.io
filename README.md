@@ -1,3 +1,5 @@
+HOME | [BLOG](./blog/html)
+
 Abdoulaye Diack is a husband, father of two and a Program Manager at [Google AI](https://research.google/) 🤖.  
 
 Abdoulaye is part of a Google research team in Accra that focuses on impact driven research and innovation.
