@@ -9,3 +9,5 @@ title:  "Imagen Video by Google Research"
 Google Researh releases Imagen Video, a text-conditional video generation system based on a cascade of video diffusion models. Given a text prompt, Imagen Video generates high definition videos.
 
 [Blog](https://imagen.research.google/video/)
+
+![videos in different artistic styles, 3D understanding, and text rendering and animation.](assets/FeUmWaHXkAssRom.jpeg)
