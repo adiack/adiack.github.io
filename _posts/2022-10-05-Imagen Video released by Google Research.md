@@ -10,4 +10,4 @@ Google Researh releases Imagen Video, a text-conditional video generation system
 
 [Blog](https://imagen.research.google/video/)
 
-![videos in different artistic styles, 3D understanding, and text rendering and animation.](assets/FeUmWaHXkAssRom.jpeg)
+![videos in different artistic styles, 3D understanding, and text rendering and animation.](/assets/FeUmWaHXkAssRom.jpeg)
