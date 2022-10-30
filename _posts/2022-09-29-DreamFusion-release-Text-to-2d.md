@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "DreamFusion: Text-to-3D using 2D Diffusion"
