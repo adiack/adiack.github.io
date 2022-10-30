@@ -14,7 +14,7 @@ Countries added include Bangladesh, Indonesia, Laos, Nepal, Philippines, Singapo
 
 ![open buildings v2](/assets/GOOGLE_Research_open-buildings_v2_polygons_sample.png)
 
-[Blog accouncement]([https://blog.tensorflow.org/2022/09/bridging-communities-tensorflow-federated-tff-and-openmined.html?linkId=8234650](https://blog.google/around-the-globe/google-africa/how-mapping-the-worlds-buildings-makes-a-difference/)
+[Blog accouncement](https://blog.google/around-the-globe/google-africa/how-mapping-the-worlds-buildings-makes-a-difference/)
 
 [Earh Engine dataset](https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_Research_open-buildings_v2_polygons)
 
