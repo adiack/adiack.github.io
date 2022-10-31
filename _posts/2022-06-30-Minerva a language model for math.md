@@ -11,6 +11,6 @@ Minerva was trained on a large dataset made of webpages with mathematical conten
 
 Havign general models capable of solving quantitative reasoning problems shows exciting potential for education. 
 
-![Minerva](/assets/Minerva.jpeg) 
+![Minerva](/assets/minerva.jpeg) 
 
 [Minerva Blog]([https://dreamfusion3d.github.io/](https://ai.googleblog.com/2022/06/minerva-solving-quantitative-reasoning.html))
