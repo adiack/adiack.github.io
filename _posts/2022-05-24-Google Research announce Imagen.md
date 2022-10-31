@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "DreamFusion: Text-to-3D using 2D Diffusion"
+title:  "Generative AI with Imagen"
 ---
 
 # Imagen - photorealism and language understanding by AI
