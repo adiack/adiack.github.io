@@ -13,4 +13,4 @@ Havign general models capable of solving quantitative reasoning problems shows e
 
 ![Minerva](/assets/minerva.jpeg) 
 
-[Minerva Blog]([https://dreamfusion3d.github.io/](https://ai.googleblog.com/2022/06/minerva-solving-quantitative-reasoning.html))
+[Minerva Blog]([https://dreamfusion3d.github.io/](https://ai.googleblog.com/2022/06/minerva-solving-quantitative-reasoning.html)
