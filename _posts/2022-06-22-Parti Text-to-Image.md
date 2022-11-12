@@ -3,7 +3,7 @@ layout: post
 title:  "Parti: How AI creates photorealistic images from text"
 ---
 
-# AI Image Synthesis with Partu
+# AI Image Synthesis with Parti
 
 Researchers at Google Research annouce Parti, a state-of-the-art text-to-image model that generates photorealistic images with complex compositions & rich world knowledge!
 
