@@ -3,18 +3,20 @@ layout: post
 title:  "Generating images with Keras Stable Diffusion [TPU]"
 ---
 
-# Stable Difussion fun with the small and infinitely big worlds
+# Using TPUs to Generate Stunning Images with Stability.ai's Text-to-Image Model 
 
-In order to generate the images below I used Keras's implementation that uses TPUs.
-This colab with only has a few lines of code allowed me to evaluate the performance of generating images on TPUs with [stability](https://stability.ai).ai's text-to-image model, [Stable Diffusion](https://github.com/CompVis/stable-diffusion)
+(https://stability.ai).ai's text-to-image model generates stunning images. By using Keras's implementation with TPUs, I was able to create large batches of stunning images. The gallery below shows some of the best ones. 
 
-Running the collab end to end can take up to 8-10min, once the model is loaded I am able to generate 32 images in about 2 minutes or 4 sec per image.  
+This colab only has a few lines of code, but it generates images at an impressive speed on TPUs. It uses stability.ai's text-to-image model, [Stable Diffusion](https://github.com/CompVis/stable-diffusion). 
 
-I have tested several text-2-image models and stable diffusion surely generates impressive results.
+Running the colab end to end can take up to 8-10 minutes, but once the model is loaded I can generate 32 images in about 2 minutes, or 4 seconds per image. 
+
+I have tested several text-to-image models and Stable Diffusion definitely generates impressive results.
+
 
 [High-performance image generation using Stable Diffusion in KerasCV](https://keras.io/guides/keras_cv/generate_images_with_stable_diffusion/)
 
-
+In some of the images below I had fun mixing the infinite big and small worlds
 
 {% include image-gallery.html folder="/uploads/album" %}
 
