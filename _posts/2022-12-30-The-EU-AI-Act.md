@@ -8,7 +8,7 @@ title:  "Understanding the EU AI Act and its Implications for African Countries"
 In April 2021, the European Commission introduced the [AI Act](https://artificialintelligenceact.eu/), a proposed law that aims to regulate the use of artificial intelligence (AI) technology within the European Union. The AI Act divides applications of AI into three categories based on their level of risk: prohibited applications, high-risk applications that are subject to specific legal requirements, and applications that are not explicitly banned or listed as high-risk, which are not to be regulated.
 
 The implementation of the EU's General Data Protection Regulation (GDPR) in 2016 had a significant impact on the rest of the world, with many countries adopting GDPR-like standards for data privacy. In Africa and Asia, 61% and 57% of countries respectively have implemented data protection regulations based on the GDPR, according to UNCTAD. However, the enforcement of data regulation laws in Africa is still a developing area.
-![Regulation_adoption](/assets/datactAfrica.jpg)
+![Regulation_adoption](/assets/dataactAfrica.jpg)
 
 It is likely that African countries will create AI legislation that reflects the risks that the technology poses to their populations, while also aligning with their national interests and taking into account the unique economic and social contexts of the continent. This legislation may also be influenced by the structure of the AI Act of the European Union.
 
