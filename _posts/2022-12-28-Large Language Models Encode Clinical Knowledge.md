@@ -13,7 +13,7 @@ This paper discusses the potential for large language models (LLMs) in the field
 
 The safety-critical nature of the medical field requires careful evaluation of LLMs to ensure that they are aligning with clinical and societal values and not producing misinformation or biases. To address this, the authors have curated the MultiMedQA benchmark, a collection of seven datasets for evaluating medical questions answered by LLMs. 
 
-![MultimedQA](/assets/MiltimedQA.jpeg)
+![MultimedQA](/assets/MultimedQA.jpeg)
 
 The paper also discusses PaLM and its instructed-tuned variant Flan-PaLM, which they evaluate on the MultiMedQA benchmark and shows strong performance on several of the medical questions datasets. Finally, they propose instruction prompt tuning as a method for further aligning LLMs with the medical domain, and demonstrate its effectiveness through the creation of a model called Med-PaLM. 
 
