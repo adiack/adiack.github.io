@@ -11,6 +11,8 @@ January 2023 stands out to me as a milestone in AI and ML. In a short time, I ha
 
 Alphafold has been freely available for 18 months  and according to DeepMind 1M+ researchers have now made use of it in their vital work. From antibiotic resistance to crop sustainability, you can read some of the stories [here](https://unfolded.deepmind.com/#stories "here")
 
+I'm looking forward to seeing what kind of innovations researchers come up with, particularly as it relates to addressing overlooked illnesses and other issues faced in developing countries.
+
 ![Alt text](/assets/alphaf.png)
 
 #### Salesforce Research releases Progen
