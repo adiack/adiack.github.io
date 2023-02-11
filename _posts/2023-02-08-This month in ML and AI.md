@@ -10,8 +10,9 @@ January 2023 stands out to me as a milestone in AI and ML. In a short time, I ha
 
 ### Health and AI
 
-Alphafold has been freely available for 18 months  and according to DeepMind 1M+ researchers have now made use of it in their vital work. From antibiotic resistance to crop sustainability, you can read some of the stories [here](https://unfolded.deepmind.com/#stories "here"):
+Alphafold has been freely available for 18 months  and according to DeepMind 1M+ researchers have now made use of it in their vital work. From antibiotic resistance to crop sustainability, you can read some of the stories [here](https://unfolded.deepmind.com/#stories "here")
 
+![Alt text](../assets/alphaf.png)
 
 #### Salesforce Research releases Progen
 
@@ -19,12 +20,15 @@ Alphafold has been freely available for 18 months  and according to DeepMind 1M+
 
 [Progen Paper](https://www.salesforceairesearch.com/projects/ProGen "Progen Paper")
 
+![Alt text](../assets/progen.png)
 
 #### BioNTech Group buys Instadeep for £342M in cash + up to £200M more.
 
 Although this is great news for the AI startups in Africa, this strategic acquisition is mainly about BioTech securing AI and ML expertise. This deal will allow BioNTech to apply AI and ML technology to develop novel drugs and treatments and expand their global research and talent networks.
 
 [Story](https://t.co/OHFI70khhx "Story")
+
+![Alt text](../assets/biontech.png)
 
 We've seen recently a few biotech companies going into partnership with the AI/ML industry and academics, below are some examples:
 
@@ -40,9 +44,9 @@ We've seen recently a few biotech companies going into partnership with the AI/M
 
 ### Generative AI
 
-ChatGPT is ushering in a new era of creativity and awareness around the capabilities of AI. By making AI and language models more accessible to people everywhere, from Uber drivers to high school students, ChatGPT is giving people the tools to unlock their imaginations and create new and innovative applications.
-
 ChatGPT ChatGPT ChatGPT, in case you have not heard yet.
+
+ChatGPT is ushering in a new era of creativity and awareness around the capabilities of AI. By making AI and language models more accessible to people everywhere, from Uber drivers to high school students, ChatGPT showcasing to many people for the first time the power of AI applications.
 
 We can expect a plethora of powerful ChatBots this year that can specialize in different tasks. 
 
@@ -95,6 +99,8 @@ Early in 2023, Intercom [announced](https://www.intercom.com/blog/announcing-new
 “A support rep can simply click the‘Summarize’button to generate a detailed TL;DR of an entire customer conversation”
 
 Director of Machine Learning, Fergal Reid, who believes this is a“sputnik moment". 
+
+![Alt text](../assets/intercom.png)
 
 #### Mind blown section
 
