@@ -45,7 +45,8 @@ We've seen recently a few biotech companies going into partnership with the AI/M
 
 ChatGPT ChatGPT ChatGPT, in case you have not heard yet.
 
-ChatGPT is ushering in a new era of creativity and awareness around the capabilities of AI. By making AI and language models more accessible to people everywhere, from Uber drivers to high school students, ChatGPT showcasing to many people for the first time the power of AI applications.
+ChatGPT is showcasing to many people for the first time the power of AI applications.
+All the attention around ChatGPT is ushering in a new era of creativity and awareness around the capabilities of AI. 
 
 We can expect a plethora of powerful ChatBots this year that can specialize in different tasks. 
 
