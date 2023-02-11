@@ -9,7 +9,7 @@ January 2023 stands out to me as a milestone in AI and ML. In a short time, I ha
 
 ### Health and AI
 
-Alphafold has been freely available for 18 months  and according to DeepMind 1M+ researchers have now made use of it in their vital work. From antibiotic resistance to crop sustainability, you can read some of the stories [here](https://unfolded.deepmind.com/#stories "here")
+Alphafold has been freely available for 18 months and according to DeepMind 1M+ researchers have now made use of it in their vital work. From antibiotic resistance to crop sustainability, you can read some of the stories [here](https://unfolded.deepmind.com/#stories "here")
 
 I'm looking forward to seeing what kind of innovations researchers come up with, particularly as it relates to addressing overlooked illnesses and other issues faced in developing countries.
 
@@ -25,7 +25,7 @@ I'm looking forward to seeing what kind of innovations researchers come up with,
 
 #### BioNTech Group buys Instadeep for £342M in cash + up to £200M more.
 
-Although this is great news for the AI startups in Africa, this strategic acquisition is mainly about BioTech securing AI and ML expertise. This deal will allow BioNTech to apply AI and ML technology to develop novel drugs and treatments and expand their global research and talent networks.
+Although this is great news for the AI startups ecosystem in Africa, this acquisition allows BioTech to secure AI and ML expertise. With this deal, BioNTech can apply AI and ML technology to develop novel drugs and treatments and expand their global research and talent networks.
 
 [Story](https://t.co/OHFI70khhx "Story")
 
@@ -89,7 +89,6 @@ CVPR's [Demos session](https://cvpr2023.thecvf.com/Conferences/2023/CallForDemos
 Definitely a [case](https://t.co/DXuns6maGs "case") to watch, this is unchartered territory for copyright litigation to my knowledge.
 
 
-
 #### Customer Service and AI
 
 I expect this to be a major trend in 2023, as language models are getting better this opens the door to automate a lot of customer service tasks. (Banks, Utilities, Telcos, Embassies, etc… are likely to embrace LLM for customer service)  
@@ -104,7 +103,17 @@ Director of Machine Learning, Fergal Reid, who believes this is a“sputnik mome
 
 #### Mind blown section
 
-Its NeRF Birthday! [[Original paper](https://arxiv.org/pdf/2003.08934.pdf "Original paper")]
+**AI Sense People Through Walls**
+
+My first though was no way, BS, but it’s actually working.
+
+Researchers at MITCSAIL are leveraging the fact that wireless signals in the WiFi frequencies traverse walls and reflect off the human body to estimate human pose. 
+
+See the video for yourself.
+
+[![IMAGE_ALT](/assets/rfpose.png)](https://www.youtube.com/watch?v=HgDdaMy8KNE&ab_channel=MITCSAIL)
+
+**Its NeRF Birthday!** [[Original paper](https://arxiv.org/pdf/2003.08934.pdf "Original paper")]
 
 NeRF is 3 years old and today people come up with mind blowing videos.
 
