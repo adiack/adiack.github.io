@@ -44,3 +44,4 @@ Panel Host - Namibia 4IR Conference |[A Panel on 4IR technologies and research](
 CNN Interview |  [How Ghana's rising tech scene is getting even bigger](https://edition.cnn.com/videos/business/2021/10/15/marketplace-africa-ghana-tech-google-uber-meqasa-spc.cnn)  | <img src="/Abdou_cnn.jpg" />|
 BBC Interview |  [Google releases buildings and structure datasets for Africa promises progress in mapping, planning and addresses.](https://www.bbc.co.uk/programmes/p09qnk4d)  | <img src="/abdou_bbc.jpg" />|
 Panel Host - AMLD Africa |[NLP and the African context featuring Instadeep and Rural Sense -AI & NLP](https://www.youtube.com/watch?v=MXCbp5t_q_Q&list=PLyyHDYyFFpkBSUmX-iv7JLgeNJHvRIt4M&index=17)  | <img src="/abdou_amld.jpg" />|
+ 
