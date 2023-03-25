@@ -19,8 +19,8 @@ Abdoulaye holds a BSc degree of Software Engineering from Concordia University, 
 |  |  |
 |--|--|
 |Resources for Researchers| - [Google Programs for African researchers and academics](https://www.linkedin.com/pulse/google-resources-african-researchers-academics-abdoulaye-diack/?trackingId=BOUX2FrCSLKViH%2F2Gs%2FrmA%3D%3D)
-|Education| - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) <br> -[Kaggle Courses](https://www.kaggle.com/learn)|
-|Community | -[Data Science Africa](http://www.datascienceafrica.org/) <br> -[Machine Learning and Data Science Africa](https://groups.google.com/g/mlds-africa?pli=1) <br> -[Black In AI](https://blackinai.github.io/#/)<br> -[Indaba Deep Learning](https://deeplearningindaba.com/) <br> -[Google for Startups](https://startup.google.com/accelerator/africa/)|
+|Education| - [African Masters of Machine Intelligence](https://aimsammi.org/) - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) <br> -[Kaggle Courses](https://www.kaggle.com/learn)|
+|Community | -[Data Science Africa](http://www.datascienceafrica.org/) <br> -[Machine Learning and Data Science Africa](https://groups.google.com/g/mlds-africa?pli=1) <br> -[Black In AI](https://blackinai.github.io/#/)<br> -[Indaba Deep Learning](https://deeplearningindaba.com/) <br> -[ML Collective](https://mlcollective.org/) <br> -[Google for Startups](https://startup.google.com/accelerator/africa/)|
 
 # Work
 
