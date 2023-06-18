@@ -3,6 +3,8 @@ layout: post
 title:  "Generative AI picking up the pace"
 ---
 
+# X * GenAI
+
 # AI 4 CODE
 
 * Music Pop star embrace Generative AI and splitting revenue showing how the industry is going to be impacted by generative AI. 
