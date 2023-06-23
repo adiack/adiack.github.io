@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Generative AI Resources"
+title:  "Topic: Generative AI"
 ---
 
-**Generative AI **Resources
+#Generative AI **Resources
 
 
 
