@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Topic: Generative AI"
+title:  "A list of Google Generative AI resources"
 ---
 
 # Generative AI **Resources
