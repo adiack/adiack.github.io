@@ -3,7 +3,7 @@ layout: post
 title:  "Topic: Generative AI"
 ---
 
-#Generative AI **Resources
+##Generative AI **Resources
 
 
 
