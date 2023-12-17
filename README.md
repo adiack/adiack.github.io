@@ -33,6 +33,7 @@ Abdoulaye works on research talent building programs and AI projects in Africa.
 
 |  |  | |
 |--|--|--|
+|Keynote |[Re:learn] Sous le capot de l'IA, un peu de vulgarisation|<img src="/assets/relearn.jpg"/> |
 |Keynote | [SSA Student Summit - Keynote](https://www.youtube.com/live/guixEsMb3vo?feature=share&t=565) | <img src="/assets/ssa_dsc_summit.png"/> |
 |Blog | [How mapping the world’s buildings makes a difference](https://blog.google/around-the-globe/google-africa/how-mapping-the-worlds-buildings-makes-a-difference/) |<img src="/africa-ssea-building-density.png"/>|
 Panel Host - Namibia 4IR Conference |[A Panel on 4IR technologies and research](https://4irnamibia.com/4ir-conference/)  | <img src="/4ir_photo.png" />|
