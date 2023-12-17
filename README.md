@@ -5,8 +5,8 @@ Abdoulaye Diack is a husband, father of two and a Program Manager for [Google AI
 # Interests
 
  - Research + innovation + startups in Africa
- - AI/ML in resource and data constrained environment (Computer vision & NLP & TinyML) 
- - AI for social good
+ - AI/ML in resource and data constrained environment 
+ - AI & Science 
  - Digital transformation & AI policy
 <a rel="me" href="https://mastodon.social/@Diack"></a>
 
