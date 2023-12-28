@@ -11,13 +11,29 @@ Abdoulaye Diack is a husband, father of two and a Program Manager for [Google AI
 <a rel="me" href="https://mastodon.social/@Diack"></a>
 
 # Resources 
-|  |  |
-|--|--|
-|Resources for Researchers| - [Google Programs for African researchers and academics](https://www.linkedin.com/pulse/google-resources-african-researchers-academics-abdoulaye-diack/?trackingId=BOUX2FrCSLKViH%2F2Gs%2FrmA%3D%3D)
-|Education| - [African Masters of Machine Intelligence](https://aimsammi.org/) <br> - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) <br> - [Kaggle Courses](https://www.kaggle.com/learn)|
-|Research Community | - [Data Science Africa](http://www.datascienceafrica.org/) <br> - [Machine Learning and Data Science Africa](https://groups.google.com/g/mlds-africa?pli=1) <br> - [Black In AI](https://blackinai.github.io/#/)<br> - [Indaba Deep Learning](https://deeplearningindaba.com/) <br> - [ML Collective](https://mlcollective.org/) <br> - [Google for Startups](https://startup.google.com/accelerator/africa/)|
-|Startups | - [GFSA: AI First (Africa) - Google for Startups Accelerator](https://startup.google.com/programs/accelerator/ai-first/africa/) <br> - [NVDIA Inception program for startups](https://www.nvidia.com/en-us/startups/) <br> - [ARM for startups](https://www.arm.com/markets/startups)<br> - [Google Black Founders Fund](https://startup.google.com/programs/black-founders-fund/africa/) <br> - [Google for Startups Africa](https://startup.google.com/accelerator/africa/)|
-|Engineering & Software development | - [Google for developers - AI development ](https://developers.google.com/focus/ai-development) <br> - [Google Cloud ML & AI courses](https://cloud.google.com/learn/training/machinelearning-ai) <br> - [Google AI & ML architecture](https://cloud.google.com/architecture/ai-ml)|
+|  |
+|--|
+| **Education** |
+| - [African Masters of Machine Intelligence](https://aimsammi.org/) |
+| - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) |
+| - [Kaggle Courses](https://www.kaggle.com/learn) |
+| **Research Community** |
+| - [Data Science Africa](http://www.datascienceafrica.org/) |
+| - [Machine Learning and Data Science Africa](https://groups.google.com/g/mlds-africa?pli=1) |
+| - [Black In AI](https://blackinai.github.io/#/) |
+| - [Indaba Deep Learning](https://deeplearningindaba.com/) |
+| - [ML Collective](https://mlcollective.org/) |
+| - [Google for Startups](https://startup.google.com/accelerator/africa/) |
+| **Startups** |
+| - [GFSA: AI First (Africa) - Google for Startups Accelerator](https://startup.google.com/programs/accelerator/ai-first/africa/) |
+| - [NVDIA Inception program for startups](https://www.nvidia.com/en-us/startups/) |
+| - [ARM for startups](https://www.arm.com/markets/startups) |
+| - [Google Black Founders Fund](https://startup.google.com/programs/black-founders-fund/africa/) |
+| - [Google for Startups Africa](https://startup.google.com/accelerator/africa/) |
+| **Engineering & Software Development** |
+| - [Google for developers - AI development](https://developers.google.com/focus/ai-development) |
+| - [Google Cloud ML & AI courses](https://cloud.google.com/learn/training/machinelearning-ai) |
+| - [Google AI & ML architecture](https://cloud.google.com/architecture/ai-ml) |
 
 # Work
 
