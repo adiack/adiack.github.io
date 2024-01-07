@@ -11,8 +11,9 @@ Abdoulaye Diack is a husband, father of two and a Program Manager for [Google AI
 <a rel="me" href="https://mastodon.social/@Diack"></a>
 
 # Resources 
-|  |
-|--|
+
+|  |  |
+|--|--|
 | **Education** |
 | - [African Masters of Machine Intelligence](https://aimsammi.org/) |
 | - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) |
@@ -23,7 +24,6 @@ Abdoulaye Diack is a husband, father of two and a Program Manager for [Google AI
 | - [Black In AI](https://blackinai.github.io/#/) |
 | - [Indaba Deep Learning](https://deeplearningindaba.com/) |
 | - [ML Collective](https://mlcollective.org/) |
-| - [Google for Startups](https://startup.google.com/accelerator/africa/) |
 | **Startups** |
 | - [GFSA: AI First (Africa) - Google for Startups Accelerator](https://startup.google.com/programs/accelerator/ai-first/africa/) |
 | - [NVDIA Inception program for startups](https://www.nvidia.com/en-us/startups/) |
