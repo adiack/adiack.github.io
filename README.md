@@ -14,10 +14,14 @@ Abdoulaye Diack is a husband, father of two and a Program Manager for [Google AI
 
 |  |  |
 |--|--|
-| **Education** |
-| - [African Masters of Machine Intelligence](https://aimsammi.org/) |
+| **Self Learning** |
 | - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) |
 | - [Kaggle Courses](https://www.kaggle.com/learn) |
+| - [ML on Coursera](https://www.coursera.org/learn/machine-learning) |
+| - [ML Learning by Jean de Nyandwi](https://github.com/Nyandwi/machine_learning_complete/) |
+| **Education** |
+| - [African Masters of Machine Intelligence](https://aimsammi.org/) |
+| - [CMU Africa - MS EAI ](https://www.africa.engineering.cmu.edu/academics/programs/mseai.html) |
 | **Research Community** |
 | - [Data Science Africa](http://www.datascienceafrica.org/) |
 | - [Machine Learning and Data Science Africa](https://groups.google.com/g/mlds-africa?pli=1) |
