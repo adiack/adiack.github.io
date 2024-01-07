@@ -50,6 +50,7 @@ Abdoulaye works on research talent building programs and AI projects in Africa.
 
 |  |  | |
 |--|--|--|
+|Podcast |[Google & African Business Club - L'intelligence Artificielle en Afrique : quels enjeux et perspectives?](https://podcasters.spotify.com/pod/show/africanbusinesstalks/episodes/Google--African-Business-Club---Lintelligence-Artificielle-en-Afrique--quels-enjeux-et-perspectives---avec-Abdoulaye-Diack--Resarch-Program-Manager--Google-AI-e2dm7qr/a-aapf9h3)(French)|[![Recording](/assets/podcast.jpeg)]([https://youtu.be/Ny10bfdqSW0?si=ar_Kt8LgqHGzcUbK&t=1902](https://podcasters.spotify.com/pod/show/africanbusinesstalks/episodes/Google--African-Business-Club---Lintelligence-Artificielle-en-Afrique--quels-enjeux-et-perspectives---avec-Abdoulaye-Diack--Resarch-Program-Manager--Google-AI-e2dm7qr/a-aapf9h3))|
 |Keynote |[[Re:learn] Sous le capot de l'IA, un peu de vulgarisation](https://youtu.be/Ny10bfdqSW0?si=ar_Kt8LgqHGzcUbK&t=1902)(French)|[![My YouTube Video](/assets/llm_predictions.png)](https://youtu.be/Ny10bfdqSW0?si=ar_Kt8LgqHGzcUbK&t=1902)|
 |AI Talk | [Rencontre avec Abdoulaye Diack: Intelligence Artificeille, quels enjeux et perspectives en Afrique](https://www.linkedin.com/posts/african-business-club_ia-intelligenceartificielle-talents-activity-7138829771752239104-cBEO?utm_source=share&utm_medium=member_desktop) | <img src="/assets/abc_prez.jpeg"/> |
 |Keynote | [SSA Student Summit - Keynote](https://www.youtube.com/live/guixEsMb3vo?feature=share&t=565) | <img src="/assets/ssa_dsc_summit.png"/> |
