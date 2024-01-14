@@ -1,14 +1,16 @@
 
 
-Abdoulaye Diack is a husband, father of two and a Program Manager for [Google AI](https://research.google/) 🤖 in Accra, where he leads talent building programs and applied AI research projects. He was previously a Program Manager for Google Brain 🧠. With expertise in AI/ML research and research Ops, Abdoulaye has accumulated more than 20 years of engineering and management experience in various countries, focusing on mobile financial services, payments, and big data solutions for Telcos. He holds a BSc degree in Computer Science from Concordia University in Montreal, Canada, and is originally from Senegal. In his current role, Abdoulaye is part of a team that focuses on AI impact-driven research and innovation, with a particular focus on sustainable development in Africa. 
+Abdoulaye Diack, a fluent French speaker and Senior Program Manager at [Google AI](https://research.google/) 🤖 in Accra, is a seasoned leader driving talent building and spearheading applied AI research projects with a focus on sustainable development across Africa.
+With over 20 years of experience in engineering and management, Abdoulaye's expertise spans AI/ML research, research operations, mobile financial services, payments, and big data solutions for Telcos. His journey began at Concordia University in Montreal, where he honed his skills in Computer Science. Before Google AI, he made significant contributions as a Program Manager for Google Brain 🧠.
+Originally from Senegal, Abdoulaye balances his demanding career with his role as a dedicated husband and father of two. He thrives in diverse cultures, having worked across Africa and North America, bringing a unique perspective to his passionate pursuit of using AI to empower communities.
+
 
 # Interests
 
  - Research + innovation + startups in Africa
- - AI/ML in resource and data constrained environment 
  - AI & Science 
  - Digital transformation & AI policy
-<a rel="me" href="https://mastodon.social/@Diack"></a>
+
 
 # Resources 
 
@@ -46,7 +48,7 @@ Abdoulaye works on research talent building programs and AI projects in Africa.
 |  |  |
 |--|--|
 |Google AI Residency in Accra, Ghana| Running a research residency program that helps launch the career of young African researchers at our [Google AI site in Accra, Ghana ](https://research.google/locations/accra/)|
-|<br><a href="https://arxiv.org/pdf/2107.12283.pdf"><img src="/mmeka_paper_shot.jpg" width="130" height="102"/></a>|Mapping Africa with AI <br><br>Using cutting edge applied AI with a research team of Software engineer and scientists we work improve maps in Africa and [open source the footprint](https://sites.research.google/open-buildings/) |
+|<br><a href="https://arxiv.org/pdf/2107.12283.pdf"><img src="/mmeka_paper_shot.jpg" width="130" height="102"/></a>|Mapping Africa with AI <br><br>Using cutting edge applied AI with a research team of Software engineer and scientists we work improve maps in Africa and the rest of the world [open source the footprint](https://sites.research.google/open-buildings/) |
 |[Google Brain team](https://research.google/teams/brain/) | Research Ops and cutting edge applied AI/ML research/projects |
 |[Google Research](https://research.google) Outreach| Strengthening research @ labs, Startups and Universities in Africa through various Google and partners programs.|
 
@@ -54,6 +56,7 @@ Abdoulaye works on research talent building programs and AI projects in Africa.
 
 |  |  | |
 |--|--|--|
+|Paper |[High-Resolution Building and Road Detection from Sentinel-2](https://arxiv.org/pdf/2310.11622.pdf)|<img src="/assets/teacher_student.jpeg"/>|
 |Podcast |[Google & African Business Club - L'intelligence Artificielle en Afrique : quels enjeux et perspectives?](https://podcasters.spotify.com/pod/show/africanbusinesstalks/episodes/Google--African-Business-Club---Lintelligence-Artificielle-en-Afrique--quels-enjeux-et-perspectives---avec-Abdoulaye-Diack--Resarch-Program-Manager--Google-AI-e2dm7qr/a-aapf9h3)(French)|[![Recording](/assets/podcast.jpeg)]([https://youtu.be/Ny10bfdqSW0?si=ar_Kt8LgqHGzcUbK&t=1902](https://podcasters.spotify.com/pod/show/africanbusinesstalks/episodes/Google--African-Business-Club---Lintelligence-Artificielle-en-Afrique--quels-enjeux-et-perspectives---avec-Abdoulaye-Diack--Resarch-Program-Manager--Google-AI-e2dm7qr/a-aapf9h3))|
 |Keynote |[[Re:learn] Sous le capot de l'IA, un peu de vulgarisation](https://youtu.be/Ny10bfdqSW0?si=ar_Kt8LgqHGzcUbK&t=1902)(French)|[![My YouTube Video](/assets/llm_predictions.png)](https://youtu.be/Ny10bfdqSW0?si=ar_Kt8LgqHGzcUbK&t=1902)|
 |AI Talk | [Rencontre avec Abdoulaye Diack: Intelligence Artificeille, quels enjeux et perspectives en Afrique](https://www.linkedin.com/posts/african-business-club_ia-intelligenceartificielle-talents-activity-7138829771752239104-cBEO?utm_source=share&utm_medium=member_desktop) | <img src="/assets/abc_prez.jpeg"/> |
