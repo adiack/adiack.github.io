@@ -1,4 +1,4 @@
-
+<img src="assets/abdou-speaking-pompidou.webp"/>
 
 Abdoulaye Diack, a fluent French speaker and Senior Program Manager at [Google AI](https://research.google/) 🤖 in Accra, is a seasoned leader driving talent building and spearheading applied AI research projects with a focus on sustainable development across Africa.
 
