@@ -1,8 +1,12 @@
 
 
 Abdoulaye Diack, a fluent French speaker and Senior Program Manager at [Google AI](https://research.google/) 🤖 in Accra, is a seasoned leader driving talent building and spearheading applied AI research projects with a focus on sustainable development across Africa.
+
 With over 20 years of experience in engineering and management, Abdoulaye's expertise spans AI/ML research, research operations, mobile financial services, payments, and big data solutions for Telcos. His journey began at Concordia University in Montreal, where he honed his skills in Computer Science. Before Google AI, he made significant contributions as a Program Manager for Google Brain 🧠.
-Originally from Senegal, Abdoulaye balances his demanding career with his role as a dedicated husband and father of two. He thrives in diverse cultures, having worked across Africa and North America, bringing a unique perspective to his passionate pursuit of using AI to empower communities.
+
+Originally from Senegal and a father of two, Abdoulaye thrives in diverse cultures, having worked across Africa and North America, bringing a unique perspective to his passionate pursuit of using AI to empower communities.
+
+Abdoulaye occasionally shares his expertise and insights through public speaking engagements.
 
 
 # Interests
