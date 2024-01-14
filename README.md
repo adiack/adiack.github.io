@@ -1,6 +1,6 @@
-<img src="assets/abdou-speaking-pompidou.webp"/>
+<img src="assets/Abdou-speaking-pompidou.webp"/>
 
-Abdoulaye Diack, a fluent French speaker and Senior Program Manager at [Google AI](https://research.google/) 🤖 in Accra, is a seasoned leader driving talent building and spearheading applied AI research projects with a focus on sustainable development across Africa.
+Abdoulaye Diack, a fluent French speaker and Senior Program Manager at [Google AI](https://research.google/) 🤖 in Accra, is dedicated to driving talent development and leading applied AI research projects focused on sustainable development across Africa and the developing world.🌍  
 
 With over 20 years of experience in engineering and management, Abdoulaye's expertise spans AI/ML research, research operations, mobile financial services, payments, and big data solutions for Telcos. His journey began at Concordia University in Montreal, where he honed his skills in Computer Science. Before Google AI, he made significant contributions as a Program Manager for Google Brain 🧠.
 
