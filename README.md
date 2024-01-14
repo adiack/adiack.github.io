@@ -48,7 +48,7 @@ Abdoulaye works on research talent building programs and AI projects in Africa.
 |  |  |
 |--|--|
 |Google AI Residency in Accra, Ghana| Running a research residency program that helps launch the career of young African researchers at our [Google AI site in Accra, Ghana ](https://research.google/locations/accra/)|
-|<br><a href="https://arxiv.org/pdf/2107.12283.pdf"><img src="assets/africa-world-buildings.jpg" width="130" height="102"/></a>|Mapping Africa with AI <br><br>Using cutting edge applied AI with a research team of Software engineer and scientists we work improve maps in Africa and the rest of the world [open source the footprint](https://sites.research.google/open-buildings/) |
+|<br><a href="https://arxiv.org/pdf/2107.12283.pdf"><img src="assets/africa-world-buildings.jpg" width="130" height="102"/></a>|Mapping the world with AI <br><br>Using cutting edge applied AI with a research team of Software engineer and scientists we work improve maps in Africa and the rest of the world [open source the footprint](https://sites.research.google/open-buildings/) |
 |[Google Brain team](https://research.google/teams/brain/) | Research Ops and cutting edge applied AI/ML research/projects |
 |[Google Research](https://research.google) Outreach| Strengthening research @ labs, Startups and Universities in Africa through various Google and partners programs.|
 
