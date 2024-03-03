@@ -60,11 +60,13 @@ Abdoulaye works on research talent building programs and AI projects in Africa.
 
 |  |  | |
 |--|--|--|
+|Panel |[Boosting Africa’s Transformation through Education, Science, Technology & Innovation](https://www.uneca.org/eca-events/africa-business-forum-2024)|<img src="/assets/ABF_2024_panel.webp"/>|
 |Paper |[High-Resolution Building and Road Detection from Sentinel-2](https://arxiv.org/pdf/2310.11622.pdf)|<img src="/assets/teacher_student.jpeg"/>|
 |Podcast |[Google & African Business Club - L'intelligence Artificielle en Afrique : quels enjeux et perspectives?](https://podcasters.spotify.com/pod/show/africanbusinesstalks/episodes/Google--African-Business-Club---Lintelligence-Artificielle-en-Afrique--quels-enjeux-et-perspectives---avec-Abdoulaye-Diack--Resarch-Program-Manager--Google-AI-e2dm7qr/a-aapf9h3)(French)|[![Recording](/assets/podcast.jpeg)]([https://youtu.be/Ny10bfdqSW0?si=ar_Kt8LgqHGzcUbK&t=1902](https://podcasters.spotify.com/pod/show/africanbusinesstalks/episodes/Google--African-Business-Club---Lintelligence-Artificielle-en-Afrique--quels-enjeux-et-perspectives---avec-Abdoulaye-Diack--Resarch-Program-Manager--Google-AI-e2dm7qr/a-aapf9h3))|
 |Keynote |[[Re:learn] Sous le capot de l'IA, un peu de vulgarisation](https://youtu.be/Ny10bfdqSW0?si=ar_Kt8LgqHGzcUbK&t=1902)(French)|[![My YouTube Video](/assets/llm_predictions.png)](https://youtu.be/Ny10bfdqSW0?si=ar_Kt8LgqHGzcUbK&t=1902)|
 |AI Talk | [Rencontre avec Abdoulaye Diack: Intelligence Artificeille, quels enjeux et perspectives en Afrique](https://www.linkedin.com/posts/african-business-club_ia-intelligenceartificielle-talents-activity-7138829771752239104-cBEO?utm_source=share&utm_medium=member_desktop) | <img src="/assets/abc_prez.jpeg"/> |
 |Keynote | [SSA Student Summit - Keynote](https://www.youtube.com/live/guixEsMb3vo?feature=share&t=565) | <img src="/assets/ssa_dsc_summit.png"/> |
+|Panel | [Africa AI Impact Summit - ACHIEVING THE PROMISE OF AI IN AFRICA](https://www.youtube.com/live/GU_e2N1klow?si=S_hymFLu76dBZYez&t=5770) | <img src="/assets/African_AI_summit.jpeg"/> |
 |Blog | [How mapping the world’s buildings makes a difference](https://blog.google/around-the-globe/google-africa/how-mapping-the-worlds-buildings-makes-a-difference/) |<img src="/africa-ssea-building-density.png"/>|
 Panel Host - Namibia 4IR Conference |[A Panel on 4IR technologies and research](https://4irnamibia.com/4ir-conference/)  | <img src="/4ir_photo.png" />|
 |Blog | [Using AI to map Africa’s buildings](https://blog.google/around-the-globe/google-africa/using-ai-to-map-africas-buildings/) |<img src="/Open-Buildings_V2b_2096x11.max-1000x1000.jpg"/>|
