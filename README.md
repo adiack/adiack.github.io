@@ -55,6 +55,8 @@ Abdoulaye works on research talent building programs and AI projects in Africa.
 |<br><a href="https://arxiv.org/pdf/2107.12283.pdf"><img src="assets/africa-world-buildings.jpg" width="130" height="102"/></a>|Mapping the world with AI <br><br>Using cutting edge applied AI with a research team of Software engineer and scientists we work improve maps in Africa and the rest of the world [open source the footprint](https://sites.research.google/open-buildings/) |
 |[Google Brain team](https://research.google/teams/brain/) | Research Ops and cutting edge applied AI/ML research/projects |
 |[Google Research](https://research.google) Outreach| Strengthening research @ labs, Startups and Universities in Africa through various Google and partners programs.|
+|<br><img src="assets/ABF_2024_panel_speak.webp" width="130" height="102"/>Speaker | Abdoulaye, a polyglot speaker fluent in English and French, international speaker who tackles various topics related to Africa's development in the field of Artificial Intelligence (AI). His talks delve into applied AI research, engineering, generative AI, the growth of tech startups, and fostering local talent in the AI space.|
+
 
 # News & Publications
 
