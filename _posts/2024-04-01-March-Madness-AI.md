@@ -2,12 +2,9 @@
 layout: post
 title:  "🚀March Madness in AI"
 ---
-
-# My notes for the month of March
-
 ## March AI Highlights: Open Source Flourishes, Policy Takes Shape, and Robotics Advances
 
-March was a whirlwind month for AI, with rapid advancements impacting various sectors and growing efforts to ensure responsible development and use. Here are some key highlights:
+March was a whirlwind month for AI, with advancements impacting various sectors. Here are some highlights from my notes:
 
 **🔍 Language Models and Chatbots:**
 
