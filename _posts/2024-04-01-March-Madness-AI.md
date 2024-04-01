@@ -49,4 +49,4 @@ March was a busy month for AI, here are some highlights from my notes:
 
 March was a month of advancements in AI, with developments in language models, research initiatives, and policy frameworks. The future of AI continues to unfold rapidly, and it will be fascinating to see what the coming months bring. 
 
-Please note that the views and opinions expressed in this post are solely my own and do not necessarily reflect those of my employer.
+Views and opinions expressed in this post are solely my own and do not necessarily reflect those of my employer.
