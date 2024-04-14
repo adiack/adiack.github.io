@@ -6,11 +6,8 @@ title:  "🤖 VLM in your shell"
 
 ## Empower Your Shell with AI: Describe Images with a Custom Command and Gemini
 
-Explore Google's Gemini 1.5 vision and ChatGPT Turbo REST API via an alias bash command. We'll craft a custom command called "desc" or "openai_desc" that leverages the API to describe images directly from your terminal.
-
-**Why "desc"?**
-
-Run "desc" from your shell on any image and get the description without opening a separate application.  
+Explore Google's Gemini 1.5 vision REST API via an alias bash command. We'll craft a custom command called "desc" or "openai_desc" that leverages the API to describe images directly from your terminal.
+ 
 
 **Getting Started:**
 
