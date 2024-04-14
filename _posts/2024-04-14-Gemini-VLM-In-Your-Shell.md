@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🚀VLM in your shell"
+title:  "🤖 VLM in your shell"
 ---
 
 
