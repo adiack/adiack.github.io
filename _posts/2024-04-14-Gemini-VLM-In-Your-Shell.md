@@ -127,9 +127,7 @@ Gemini Image Description:
 * The response is parsed to extract the image description.
 * The description is displayed in your terminal. 
 
-**Beyond the Basics:**
-
-Some ideas:
+**Some ideas:**
 
 * **Modify the prompt:**  Instead of "What is this picture?", you could ask specific questions like "What is the main object in this image?" or "Describe the emotions of the people in this picture."
 * **Integrate with other tools:**  Pipe the description to a text-to-speech engine for audio output, or use it as input for other scripts or applications.
