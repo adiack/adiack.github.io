@@ -40,6 +40,11 @@ Abdoulaye occasionally shares his expertise and insights through public speaking
 | - [ARM for startups](https://www.arm.com/markets/startups) |
 | - [Google Black Founders Fund](https://startup.google.com/programs/black-founders-fund/africa/) |
 | - [Google for Startups Africa](https://startup.google.com/accelerator/africa/) |
+| - [Flapmax](https://flapmax.com/africa/fast-accelerator/) |
+| - [Lacuna Fund](https://lacunafund.org/)| 
+| - [216 Capital](https://216capital.vc/)|
+| - [Partech](https://partechpartners.com/)|
+| - [Villgro Africa](https://villgroafrica.org/)|
 | **Engineering & Software Development** |
 | - [Google for developers - AI development](https://developers.google.com/focus/ai-development) |
 | - [Google Cloud ML & AI courses](https://cloud.google.com/learn/training/machinelearning-ai) |
