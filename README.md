@@ -34,6 +34,7 @@ Abdoulaye occasionally shares his expertise and insights through public speaking
 | - [Black In AI](https://blackinai.github.io/#/) |
 | - [Indaba Deep Learning](https://deeplearningindaba.com/) |
 | - [ML Collective](https://mlcollective.org/) |
+| - [Global Center on AI Governance](https://www.globalcenter.ai/) |
 | **Startups** |
 | - [GFSA: AI First (Africa) - Google for Startups Accelerator](https://startup.google.com/programs/accelerator/ai-first/africa/) |
 | - [NVDIA Inception program for startups](https://www.nvidia.com/en-us/startups/) |
@@ -68,6 +69,7 @@ Abdoulaye works on research talent building programs and AI projects in Africa.
 |  |  | |
 |--|--|--|
 |Panel |[Boosting Africa’s Transformation through Education, Science, Technology & Innovation](https://www.uneca.org/eca-events/africa-business-forum-2024)|<img src="/assets/ABF_2024_panel.webp"/>|
+|Paper |[Development and Evaluation of Deep Learning Models for Cardiotocography Interpretation](https://www.medrxiv.org/content/10.1101/2024.03.05.24303805v1)|<img src="/assets/ctg_ai.jpeg"/>|
 |Paper |[High-Resolution Building and Road Detection from Sentinel-2](https://arxiv.org/pdf/2310.11622.pdf)|<img src="/assets/teacher_student.jpeg"/>|
 |Podcast |[Google & African Business Club - L'intelligence Artificielle en Afrique : quels enjeux et perspectives?](https://podcasters.spotify.com/pod/show/africanbusinesstalks/episodes/Google--African-Business-Club---Lintelligence-Artificielle-en-Afrique--quels-enjeux-et-perspectives---avec-Abdoulaye-Diack--Resarch-Program-Manager--Google-AI-e2dm7qr/a-aapf9h3)(French)|[![Recording](/assets/podcast.jpeg)]([https://youtu.be/Ny10bfdqSW0?si=ar_Kt8LgqHGzcUbK&t=1902](https://podcasters.spotify.com/pod/show/africanbusinesstalks/episodes/Google--African-Business-Club---Lintelligence-Artificielle-en-Afrique--quels-enjeux-et-perspectives---avec-Abdoulaye-Diack--Resarch-Program-Manager--Google-AI-e2dm7qr/a-aapf9h3))|
 |Keynote |[[Re:learn] Sous le capot de l'IA, un peu de vulgarisation](https://youtu.be/Ny10bfdqSW0?si=ar_Kt8LgqHGzcUbK&t=1902)(French)|[![My YouTube Video](/assets/llm_predictions.png)](https://youtu.be/Ny10bfdqSW0?si=ar_Kt8LgqHGzcUbK&t=1902)|
