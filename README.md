@@ -41,6 +41,8 @@ Abdoulaye occasionally shares his expertise and insights through public speaking
 | - [ARM for startups](https://www.arm.com/markets/startups) |
 | - [Google Black Founders Fund](https://startup.google.com/programs/black-founders-fund/africa/) |
 | - [Google for Startups Africa](https://startup.google.com/accelerator/africa/) |
+| - [Startups for Sustainable Development](https://events.withgoogle.com/startups-for-sustainable-development/) |
+| - [Mozilla Ventures](https://mozilla.vc/) |
 | - [Flapmax](https://flapmax.com/africa/fast-accelerator/) |
 | - [Lacuna Fund](https://lacunafund.org/)| 
 | - [216 Capital](https://216capital.vc/)|
