@@ -1,4 +1,7 @@
-
+---
+layout: post
+title:  "Google Translate Expands to 110 New Languages, Including 31 from Africa"
+---
 
 
 ## **Google Translate Expands to 110 New Languages, Including 31 from Africa**
@@ -7,9 +10,9 @@ Google Translate has taken a significant step towards greater inclusivity by add
 
 This achievement is the result of a concerted multi years effort by Isaac Caswell, the Google Translate Research team, and numerous community collaborators. They faced unique challenges, as building high-quality translations for languages with limited digital resources is complex. To address this, they developed an approach that relies on "monolingual" data – text in a single language – instead of solely relying on translated text. This method, called "zero-shot learning," allows for the creation of translations for languages not explicitly trained on, though it's important to remember that this is still a developing technology.
 
+![Monolingual](/assets/monolingual.png) 
+
 **What does this mean?**
-
-
 
 * **More Accessibility:** People speaking these newly included languages now have a tool to access information, communicate, and break down language barriers.
 * **Language Preservation:** This expansion helps preserve and promote less commonly used languages, which is crucial for maintaining linguistic diversity.
@@ -19,8 +22,7 @@ While this is a significant step, it's important to note that Google Translate, 
 
 **The languages added are significant:**
 
-
-
+A few notables ones: 
 * **Punjabi (Shahmukhi):** This language, written in the Shahmukhi script, is spoken by millions in Pakistan and India. Its inclusion expands communication and access to information for a large community.
 * **Romani:** Romani, the language of romani communities with presence in many european countries, has historically been underrepresented in technology. Its inclusion in Google Translate is a step towards recognizing and supporting this community.
 * **N’ko:** Created in the 1940s, N’ko uses a unique script to unify Manding languages in West Africa. This addition supports literacy and cultural preservation efforts.
@@ -28,14 +30,9 @@ While this is a significant step, it's important to note that Google Translate, 
 
 This expansion is a positive step towards a more inclusive digital world, but it's important to be aware of its limitations. While AI is an exciting tool, it requires continual development and feedback to refine its capabilities. The addition of these new languages is a testament to the potential of technology to foster communication and understanding, but it's crucial to remember that it's a journey, not a destination.
 
-Full list of languages: 
-
-
 ## **Languages by Region**
 
 **APAC**
-
-
 
 * **Southern Asia**
     * Bhutan: Dzongkha
@@ -66,8 +63,6 @@ Full list of languages:
     * Tonga Islands: Tongan
 
 **EMEA**
-
-
 
 * **Western Asia**
     * Afghanistan: Dari
@@ -145,8 +140,12 @@ Full list of languages:
 
 **LATAM**
 
-
-
 * **Central America**
     * Guatemala: Q'eqchi', Mam
-    * Mexico: Nahuatl (Eastern Huaste)
+    * Mexico: Nahuatl (Eastern Huaste), Q'eqchi', Mam, Yucatec Maya, Zapotec
+    * Belize: Q'eqchi'
+* **South America**
+    * Brazil: Hunsrik
+* **Caribbean**
+    * Caribbean Netherlands: Papiamento
+    * Jamaica: Jamaican Patois
