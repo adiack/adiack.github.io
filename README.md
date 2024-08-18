@@ -70,6 +70,8 @@ Abdoulaye works on research talent building programs and AI projects in Africa.
 
 |  |  | |
 |--|--|--|
+|Interview |[Les langues africaines intègrent Google Traduction](https://youtu.be/ncR8AIvLBT4?si=kSqrEC3_ZHH35qth)|<img src="/assets/tv5.webp"/>|
+|Interview |[Google Traduction intègre plus de 110 nouvelles langues • FRANCE 24](https://youtu.be/7-_D2iXvRrs?si=z9a_NCshMJHZvtJW)|<img src="/assets/france_24.webp"/>|
 |Panel |[Boosting Africa’s Transformation through Education, Science, Technology & Innovation](https://www.uneca.org/eca-events/africa-business-forum-2024)|<img src="/assets/ABF_2024_panel.webp"/>|
 |Paper |[Development and Evaluation of Deep Learning Models for Cardiotocography Interpretation](https://www.medrxiv.org/content/10.1101/2024.03.05.24303805v1)|<img src="/assets/ctg_ai.jpeg"/>|
 |AI and Research talk|[✨Naviguer à l'ère de l'IA : Défis et Opportunités pour les Chercheurs et Innovateurs](https://www.linkedin.com/posts/friareafrica_friare-ia-webinairefriare-activity-7185653374162210816-8JRh?utm_source=share&utm_medium=member_desktop)|<img src="/assets/webinaire_friare.jpeg"/>|
