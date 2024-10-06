@@ -1,19 +1,19 @@
 <img src="assets/Abdou-speaking-pompidou.webp"/>
 
-Abdoulaye Diack, a fluent French speaker and Senior Program Manager at [Google AI](https://research.google/) 🤖 in Accra, is dedicated to driving talent development and leading applied AI research projects focused on sustainable development across Africa and the developing world.🌍  
 
-With over 20 years of experience in engineering and management, Abdoulaye's expertise spans AI/ML research, research operations, mobile financial services, payments, and big data solutions for Telcos. His journey began at Concordia University in Montreal, where he honed his skills in Computer Science. Before Google AI, he made significant contributions as a Program Manager for Google Brain 🧠.
+Abdoulaye Diack works as a Senior Program Manager at [Google AI](https://research.google/teams/africa-team/) 🤖 in Accra, where he contributes to AI research and talent development initiatives. With 5 years in AI/ML and a background in engineering and management, he focuses on projects that aim to benefit Africa and other developing regions. 
 
-Originally from Senegal and a father of two, Abdoulaye thrives in diverse cultures, having worked across Africa and North America, bringing a unique perspective to his passionate pursuit of using AI to empower communities.
+Abdoulaye's recent work includes using AI to improve mapping in underserved areas, supporting African NLP research, and exploring AI applications in healthcare for resource-limited settings. Originally from Senegal, he is bilingual in French and English.
 
-Abdoulaye occasionally shares his expertise and insights through public speaking engagements.
-
+Abdoulaye studied Computer Science at Concordia University in Montreal and previously worked on projects at Google Brain 🧠. As a father of two, he's motivated to explore how AI can address practical challenges in developing countries. Occasionally, Abdoulaye participates in public speaking events to share insights from his work in the field.
 
 # Interests
 
+ - Artificial Intelligence
+ - Machine Learning
+ - Computer Science
  - Research + innovation + startups in Africa
- - AI & Science 
- - Digital transformation & AI policy
+ - Digital transformation & AI Africa Ecosystem
 
 
 # Resources 
