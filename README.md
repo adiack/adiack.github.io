@@ -69,6 +69,7 @@ Abdoulaye works on research talent building programs and AI projects in Africa.
 |  |  | |
 |--|--|--|
 |Blog |[Open Buildings: AI-powered maps for a changing world](https://blog.google/technology/research/open-buildings-ai-powered-maps-for-a-changing-world/)|<img src="/assets/Open_Buildings_1.gif"/>|
+|Workshop participation|[The Open Source AI Definition](https://opensource.org/ai/open-source-ai-definition)|<img src="/assets/cropped-OSI-horizontal-large.webp"/>|
 |Article |[Chez Google, Abdoulaye Diack, nouvel artisan d’une IA « made in Africa »](https://www.jeuneafrique.com/1600061/economie-entreprises/chez-google-abdoulaye-diack-nouvel-artisan-dune-ia-made-in-africa/#:~:text=Open%20Buildings%20et%20les%20langues,nous%20%C2%BB%2C%20explique%20le%20manager)|<img src="/assets/jad20240813-eco-abdoulaye-diack.webp"/>|
 |Interview |[Les langues africaines intègrent Google Traduction](https://youtu.be/ncR8AIvLBT4?si=kSqrEC3_ZHH35qth)|<img src="/assets/tv5.webp"/>|
 |Interview |[Google Traduction intègre plus de 110 nouvelles langues • FRANCE 24](https://youtu.be/7-_D2iXvRrs?si=z9a_NCshMJHZvtJW)|<img src="/assets/france_24.webp"/>|
