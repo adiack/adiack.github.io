@@ -1,11 +1,11 @@
 <img src="assets/Abdou-speaking-pompidou.webp"/>
 
+Abdoulaye Diack is a Senior Program Manager at [Google Research Africa](https://research.google/teams/africa-team/) 🤖 in Accra. He works on initiatives that apply AI to address challenges in the Global South. A core focus of his work has been the Open Buildings project, which uses AI to create building footprint data for regions with limited mapping information. This data has improved Google Maps and mapped over 1.8 billion buildings across Africa, South America, the Caribbean, and South and Southeast Asia. This information is valuable for urban planning, disaster response, and economic development, aiding local governments and organizations.
 
-Abdoulaye Diack works as a Senior Program Manager at [Google AI](https://research.google/teams/africa-team/) 🤖 in Accra, where he contributes to AI research and talent development initiatives. With 5 years in AI/ML and a background in engineering and management, he focuses on projects that aim to benefit Africa and other developing regions. 
+<img src="assets/heat-map.width-1250.png"/>
 
-Abdoulaye's recent work includes using AI to improve mapping in underserved areas, supporting African NLP research, and exploring AI applications in healthcare for resource-limited settings. Originally from Senegal, he is bilingual in French and English.
+Abdoulaye has over 20 years of experience in engineering and management, including AI/ML research, research operations, mobile financial services, payments, and big data solutions for telecommunications companies. He studied Computer Science at Concordia University in Montreal and further developed his skills as a Program Manager initially for Google Brain. 
 
-Abdoulaye studied Computer Science at Concordia University in Montreal and previously worked on projects at Google Brain 🧠. As a father of two, he's motivated to explore how AI can address practical challenges in developing countries. Occasionally, Abdoulaye participates in public speaking events to share insights from his work in the field.
 
 # Interests
 
