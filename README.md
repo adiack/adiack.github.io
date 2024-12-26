@@ -55,7 +55,7 @@ Abdoulaye studied Computer Science at Concordia University in Montreal and previ
 
 # Work
 
-Abdoulaye works on research talent building programs and AI projects in Africa.
+Abdoulaye works on research and AI related projects in Africa
 
 |  |  |
 |--|--|
