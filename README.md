@@ -59,10 +59,8 @@ Abdoulaye works on research talent building programs and AI projects in Africa.
 
 |  |  |
 |--|--|
-|Google AI Residency in Accra, Ghana| Running a research residency program that helps launch the career of young African researchers at our [Google AI site in Accra, Ghana ](https://research.google/locations/accra/)|
+|<br><a href="[https://research.google/"><img src="assets/Open_Graph.width-800.format-jpeg.jpg" width="130" height="102"/></a>| As a Program Manager I work with a talented team of Research scientists and engineers. I also work on dtrengthening research @ labs, Startups and Universities in Africa through various Google and partners programs [Google Research Africa site, Ghana ](https://research.google/teams/africa-team/)|
 |<br><a href="https://arxiv.org/pdf/2107.12283.pdf"><img src="assets/africa-world-buildings.jpg" width="130" height="102"/></a>|Mapping the world with AI <br><br>Using cutting edge applied AI with a research team of Software engineer and scientists we work improve maps in Africa and the rest of the world [open source the footprint](https://sites.research.google/open-buildings/) |
-|[Google Brain team](https://research.google/teams/brain/) | Research Ops and cutting edge applied AI/ML research/projects |
-|[Google Research](https://research.google) Outreach| Strengthening research @ labs, Startups and Universities in Africa through various Google and partners programs.|
 |<br><img src="assets/ABF_panel_speak.webp" width="130" height="102"/>Speaker | Abdoulaye, a polyglot speaker fluent in English and French, is an international speaker who tackles various topics related to Africa's development in the field of Artificial Intelligence (AI). His talks delve into applied AI research, engineering, generative AI, the growth of tech startups, and fostering local talent in the AI space.|
 
 
@@ -70,6 +68,8 @@ Abdoulaye works on research talent building programs and AI projects in Africa.
 
 |  |  | |
 |--|--|--|
+|Blog |[Open Buildings: AI-powered maps for a changing world](https://blog.google/technology/research/open-buildings-ai-powered-maps-for-a-changing-world/)|<img src="/assets/Open_Buildings_1.gif"/>|
+|Article |[Chez Google, Abdoulaye Diack, nouvel artisan d’une IA « made in Africa »](https://www.jeuneafrique.com/1600061/economie-entreprises/chez-google-abdoulaye-diack-nouvel-artisan-dune-ia-made-in-africa/#:~:text=Open%20Buildings%20et%20les%20langues,nous%20%C2%BB%2C%20explique%20le%20manager)|<img src="/assets/jad20240813-eco-abdoulaye-diack.webp"/>|
 |Interview |[Les langues africaines intègrent Google Traduction](https://youtu.be/ncR8AIvLBT4?si=kSqrEC3_ZHH35qth)|<img src="/assets/tv5.webp"/>|
 |Interview |[Google Traduction intègre plus de 110 nouvelles langues • FRANCE 24](https://youtu.be/7-_D2iXvRrs?si=z9a_NCshMJHZvtJW)|<img src="/assets/france_24.webp"/>|
 |Panel |[Boosting Africa’s Transformation through Education, Science, Technology & Innovation](https://www.uneca.org/eca-events/africa-business-forum-2024)|<img src="/assets/ABF_2024_panel.webp"/>|
