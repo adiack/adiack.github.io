@@ -13,7 +13,7 @@ header {
   }
 }
 section {
-  max-width: 1200px;  /* Set a max width for the content section */
+  max-width: 1800px;  /* Set a max width for the content section */
   margin: 0 auto;     /* Center the content section horizontally */
   padding: 10px;      /* Add padding to give some space around the content */
 }
@@ -33,13 +33,13 @@ h1 {
 /* Adjust the content section for more width */
 .content {
   width: 100%;        /* Ensure content takes up full available space */
-  padding-left: 20px; /* Optional: Adjust padding inside the content */
-  padding-right: 20px; /* Optional: Adjust padding inside the content */
+  padding-left: 10px; /* Optional: Adjust padding inside the content */
+  padding-right: 10px; /* Optional: Adjust padding inside the content */
 }
 
 /* Target the header section using the class .site-header */
 .site-header {
-  max-width: 800px;  /* Set a maximum width for the header */
+  max-width: 600px;  /* Set a maximum width for the header */
   margin: 0 auto;     /* Center the header horizontally */
   padding: 10px;      /* Add padding inside the header for spacing */
 }
