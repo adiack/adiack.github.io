@@ -1,5 +1,5 @@
 /* Hide the sidebar on blog post pages */
-body.page-post .sidebar {
+body.page-post .header {
   display: none;
 }
 
