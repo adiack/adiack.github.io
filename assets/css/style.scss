@@ -12,6 +12,12 @@ header {
     text-align: left;
   }
 }
+section {
+  max-width: 1200px;  /* Set a max width for the content section */
+  margin: 0 auto;     /* Center the content section horizontally */
+  padding: 10px;      /* Add padding to give some space around the content */
+}
+
 
 /* Adjust the width and margin of the wrapper/container */
 .wrapper {
@@ -57,10 +63,4 @@ header {
   margin-bottom: 10px; /* Add space between download links */
 }
 /* Target the section element */
-section {
-  max-width: 1200px;  /* Set a max width for the content section */
-  margin: 0 auto;     /* Center the content section horizontally */
-  padding: 20px;      /* Add padding to give some space around the content */
-}
-
 
