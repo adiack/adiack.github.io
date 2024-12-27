@@ -16,7 +16,7 @@ header {
 .site-header {
   max-width: 800px;  /* Set a maximum width for the header */
   margin: 0 auto;     /* Center the header horizontally */
-  padding: 20px;      /* Add padding inside the header for spacing */
+  padding: 10px;      /* Add padding inside the header for spacing */
 }
 
 .site-header h1 a {
@@ -40,4 +40,11 @@ header {
 .site-header .downloads li {
   margin-bottom: 10px; /* Add space between download links */
 }
+/* Target the section element */
+section {
+  max-width: 1200px;  /* Set a max width for the content section */
+  margin: 0 auto;     /* Center the content section horizontally */
+  padding: 20px;      /* Add padding to give some space around the content */
+}
+
 
