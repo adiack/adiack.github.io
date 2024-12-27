@@ -12,6 +12,9 @@ header {
     text-align: left;
   }
 }
+header {
+  display: none;
+}
 /* Adjust the width and margin of the wrapper/container */
 .wrapper {
   margin: 0 auto;     /* Center the wrapper */
