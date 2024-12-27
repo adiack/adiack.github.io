@@ -53,14 +53,15 @@ If necessary, install Node.js and npm using one of these methods:
      REACT_APP_GEMINI_API_KEY='<YOUR_GEMINI_API_KEY>'
      ```
 
-3. **Update `package.json`:**
-   * Add this `content_security_policy` to prevent errors:
-     ```json
-     "content_security_policy": {
-       "extension_pages": "script-src 'self'; object-src 'self';",
-       "sandbox": "sandbox allow-scripts allow-forms allow-popups allow-modals; script-src 'self' 'unsafe-inline' 'unsafe-eval'; child-src 'self';"
-     }
+3. **Update `public/index.html`:** 
+
+    * Add the following meta tag within the `<head>` section to enable the web console scripts to run:
+
+     ```html
+     <meta http-equiv="Content-Security-Policy" content="script-src 'self' 'wasm-unsafe-eval' 'inline-speculation-rules' http://localhost:3000 chrome-extension://* blob:;">
      ```
+
+   * **Important:** This modifies the Content Security Policy (CSP) to allow the web console to function. To understand the security implications and best practices for CSP, it's highly recommended to read more about it here: [https://developer.chrome.com/docs/privacy-security/csp](https://developer.chrome.com/docs/privacy-security/csp)
 
 4. **Install dependencies:**
    ```bash
