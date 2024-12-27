@@ -1,0 +1,9 @@
+/* Hide the sidebar on blog post pages */
+body.page-post .sidebar {
+  display: none;
+}
+
+/* Make the content area wider */
+body.page-post .content {
+  width: 100%;  /* Or flex-grow: 1 to make it take up the entire space */
+}
