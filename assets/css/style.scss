@@ -2,6 +2,7 @@
 ---
 @import "{{ site.theme }}";
 header {
+  width: 25%;
   img {
     border-radius: 20%;
   }
@@ -13,7 +14,7 @@ header {
   }
 }
 section {
-  width: 80%;  /* Set a max width for the content section */
+  width: 70%;  /* Set a max width for the content section */
   margin: 0 auto;     /* Center the content section horizontally */
   padding: 10px;      /* Add padding to give some space around the content */
 }
