@@ -12,6 +12,21 @@ header {
     text-align: left;
   }
 }
+/* Adjust the width and margin of the wrapper/container */
+.wrapper {
+  margin: 0 auto;     /* Center the wrapper */
+  max-width: 90%;     /* Reduce the max width to give more space to the content */
+  padding-left: 10px; /* Optional: Add small padding to the left */
+  padding-right: 10px; /* Optional: Add small padding to the right */
+}
+
+/* Adjust the content section for more width */
+.content {
+  width: 100%;        /* Ensure content takes up full available space */
+  padding-left: 20px; /* Optional: Adjust padding inside the content */
+  padding-right: 20px; /* Optional: Adjust padding inside the content */
+}
+
 /* Target the header section using the class .site-header */
 .site-header {
   max-width: 800px;  /* Set a maximum width for the header */
