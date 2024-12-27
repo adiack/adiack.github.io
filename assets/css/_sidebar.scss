@@ -4,7 +4,7 @@ author__bio {
   font-style: italic;
 
   @include breakpoint($large) {
-    margin-top: 10px;
+    margin-top: 5px;
     margin-bottom: 20px;
   }
 }
