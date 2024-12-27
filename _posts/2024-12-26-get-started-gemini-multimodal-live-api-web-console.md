@@ -62,6 +62,7 @@ If necessary, install Node.js and npm using one of these methods:
      ```
 
    * **Important:** This modifies the Content Security Policy (CSP) to allow the web console to function. To understand the security implications and best practices for CSP, it's highly recommended to read more about it here: [https://developer.chrome.com/docs/privacy-security/csp](https://developer.chrome.com/docs/privacy-security/csp)
+   * **Note:** This CSP configuration is suitable for local development and testing. When deploying a production application, you should carefully review and adjust the CSP to ensure proper security and privacy measures are in place.
 
 4. **Install dependencies:**
    ```bash
