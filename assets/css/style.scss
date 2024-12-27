@@ -3,7 +3,7 @@
 @import "{{ site.theme }}";
 header {
   img {
-    border-radius: 50%;
+    border-radius: 20%;
   }
   p {
     text-align: center;
@@ -12,3 +12,32 @@ header {
     text-align: left;
   }
 }
+/* Target the header section using the class .site-header */
+.site-header {
+  max-width: 1200px;  /* Set a maximum width for the header */
+  margin: 0 auto;     /* Center the header horizontally */
+  padding: 20px;      /* Add padding inside the header for spacing */
+}
+
+.site-header h1 a {
+  font-size: 2em;      /* Adjust the font size for the title */
+}
+
+.site-header img {
+  max-width: 100%;     /* Ensure the logo doesn't overflow */
+  height: auto;        /* Maintain aspect ratio of the logo */
+}
+
+.site-header p {
+  font-size: 1.1em;    /* Adjust the description text size */
+}
+
+.site-header .downloads {
+  list-style-type: none;
+  padding: 0;
+}
+
+.site-header .downloads li {
+  margin-bottom: 10px; /* Add space between download links */
+}
+
