@@ -24,7 +24,7 @@
     <![endif]-->
     {% include head-custom.html %}
   </head>
-  <body>
+  <body {% if page.layout == 'post' %}class="post-page"{% endif %}>
     <div class="wrapper">
       {% if page.layout != 'post' %} 
       <header class="site-header">
