@@ -52,6 +52,10 @@ If necessary, install Node.js and npm using one of these methods:
      # create your own API KEY at https://aistudio.google.com/apikey
      REACT_APP_GEMINI_API_KEY='<YOUR_GEMINI_API_KEY>'
      ```
+      * Activate the key variable:
+     ```
+     source .env
+     ```
 
 3. **Update `public/index.html`:** 
 
