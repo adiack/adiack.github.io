@@ -26,8 +26,8 @@ h1 {
 .wrapper {
   margin: 0 auto;     /* Center the wrapper */
   max-width: 95%;     /* Reduce the max width to give more space to the content */
-  padding-left: 5px; /* Optional: Add small padding to the left */
-  padding-right: 5px; /* Optional: Add small padding to the right */
+  padding-left: 10px; /* Optional: Add small padding to the left */
+  padding-right: 10px; /* Optional: Add small padding to the right */
 }
 
 /* Adjust the content section for more width */
@@ -39,8 +39,8 @@ h1 {
 
 /* Target the header section using the class .site-header */
 .site-header {
-  max-width: 80%;  /* Set a maximum width for the header */
-  margin: 0 auto;     /* Center the header horizontally */
+  max-width: 70%;  /* Set a maximum width for the header */
+/*  margin: 0 auto;     /* Center the header horizontally */
   padding: 10px;      /* Add padding inside the header for spacing */
 }
 
