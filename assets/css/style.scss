@@ -14,7 +14,7 @@ header {
   }
 } 
 section {
-  width: 70%;  /* Set a max width for the content section */
+  width: 60%;  /* Set a max width for the content section */
   margin: 0 auto;     /* Center the content section horizontally */
   padding: 10px;      /* Add padding to give some space around the content */
 }
@@ -50,7 +50,7 @@ h1 {
 }
 
 .site-header img {
-  max-width: 81px;     /* Ensure the logo doesn't overflow */
+  max-width: 162px;     /* Ensure the logo doesn't overflow */
   height: auto;        /* Maintain aspect ratio of the logo */
 }
 
