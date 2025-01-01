@@ -8,3 +8,7 @@ author__bio {
     margin-bottom: 20px;
   }
 }
+.author__bio img {
+  max-width: 70px; /* Adjust the value to your desired width */
+  height: auto; /* Maintain aspect ratio */
+}
