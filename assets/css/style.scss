@@ -3,14 +3,14 @@
 @import "{{ site.theme }}";
 header {
   img {
-    max-width: 81px;
+    max-width: 60px;
     border-radius: 10%;
   }
   p {
-    text-align: left;
+    text-align: center;
   }
   p.view {
-    text-align: left;
+    text-align: center;
   }
 } 
 section {
