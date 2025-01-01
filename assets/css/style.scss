@@ -3,14 +3,14 @@
 @import "{{ site.theme }}";
 header {
   img {
-    max-width: 60px;
+    max-width: 50px;
     border-radius: 10%;
   }
   p {
-    text-align: center;
+    text-align: left;
   }
   p.view {
-    text-align: center;
+    text-align: left;
   }
 } 
 section {
@@ -50,7 +50,7 @@ h1 {
 }
 
 .site-header img {
-  max-width: 81%;     /* Ensure the logo doesn't overflow */
+  max-width: 81px;     /* Ensure the logo doesn't overflow */
   height: auto;        /* Maintain aspect ratio of the logo */
 }
 
