@@ -1,8 +1,9 @@
 ---
 ---
 @import "{{ site.theme }}";
-/* header {
+header {
   img {
+    max-width: 81px;
     border-radius: 10%;
   }
   p {
@@ -11,7 +12,7 @@
   p.view {
     text-align: left;
   }
-} */
+} 
 section {
   width: 70%;  /* Set a max width for the content section */
   margin: 0 auto;     /* Center the content section horizontally */
