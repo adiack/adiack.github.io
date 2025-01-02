@@ -1,6 +1,9 @@
 <img src="assets/Abdou-speaking-pompidou.webp"/>
 
-Abdoulaye Diack is a Senior Program Manager at [Google Research Africa](https://research.google/teams/africa-team/) 🤖, leading the development and implementation of AI solutions to address challenges in the Global South. He works, as a lead in the Open Buildings project, which used AI to map over 1.8 billion buildings, significantly improving disaster response and economic development in underserved regions. With 20+ years of experience in AI/ML, research operations, and technology solutions for emerging markets, Abdoulaye is a strategic leader passionate about leveraging technology to drive sustainable growth.
+Abdoulaye Diack is a Senior Program Manager at [Google Research Africa](https://research.google/teams/africa-team/) 🤖. He works with a talented team of research scientists and engineers on AI research that address challenges in the Global South. Abdoulaye is a lead on the Open Buildings project, which used AI to create building footprint data for regions with limited mapping information. This project mapped over 1.8 billion buildings across Africa, South America, the Caribbean, and South and Southeast Asia. The data is used to improve Google Maps and supports urban planning, disaster response, and economic development initiatives.
+
+Abdoulaye is a strategic leader passionate about leveraging technology, including cutting-edge AI, to drive sustainable growth in emerging markets.
+
 
 <img src="assets/heat-map.width-1250.png"/>
 
